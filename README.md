@@ -63,6 +63,15 @@ If the input is not empty, the input is checked and the process starts again. Ot
 Finally, the current state of the word trainer is persisted.
 Other GUI technologies are also permitted if at least equivalent functionality is guaranteed.
 
+### Extended
+Integrate at least one external library (except JUnit) using Gradle and use it sensibly in your word trainer.
+Use Github Actions to further automate at least one aspect of the software development process (e.g. test execution, Jar file creation, Javadoc generation, ...).
+Participate in a classmate's word trainer: use issue tracking and/or a pull request to suggest a (non-trivial) improvement.
+This point is only completed once the issue/pull request has been successfully completed.
+Maintain a constructive attitude when working together.
+Allow a classmate to participate in your word trainer: fix a (non-trivial) problem reported as an issue by someone else
+This point is only completed once the issue has been successfully resolved. Simply merging a finished pull request doesn't count!
+Maintain a constructive attitude when working together.
 
 ## Deployment
 
